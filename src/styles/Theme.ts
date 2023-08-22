@@ -1,0 +1,18 @@
+export enum THEME {
+  DEFAULT_BACKGROUND = "#191825",
+  LILAC = "#865DFF",
+  PINK = "#E384FF",
+  LIGHT_PINK = "#FFA3FD",
+  BABY_BLUE = "#39B5E0",
+  PURPLE = "#A31ACB",
+  DARK_PURPLE = "#2E0249",
+  YELLOW = "#F5EA5A",
+  WHITE_TEXT = "#F9F9F9",
+  LIGHT_GRAY = "#D4D4D4",
+  TITLE_PAGE = "linear-gradient(90deg, rgba(227,132,255,1) 0%, rgba(237,186,167,1) 50%, rgba(245,234,90,1) 100%)",
+  LINEAR_PINK = "linear-gradient(90deg, #570A57 0%, #CC22A8 44.59%, #A91079 100%)",
+  LINEAR_FIRST_CARD = "linear-gradient(135deg, #865DFF 0%, #E384FF 100%)",
+  LINEAR_SECOND_CARD = "linear-gradient(224deg, #865DFF 0%, #E384FF 100%)",
+  LINEAR_THIRD_CARD = "linear-gradient(45deg, #FFA3FD 0%, #E384FF 100%)",
+  LINEAR_FOURTH_CARD = "linear-gradient(315deg, #865DFF 0%, #E384FF 100%)",
+}
